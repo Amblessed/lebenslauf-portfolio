@@ -17,9 +17,8 @@ function App() {
         <Certificates />
         <FurtherTrainings />
          <Contact />
-      </main>
-      <Footer /> 
-      
+      </main> 
+      <Footer />
     </>
   );
 }
