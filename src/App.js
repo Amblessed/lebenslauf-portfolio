@@ -18,7 +18,7 @@ function App() {
         <FurtherTrainings />
          <Contact />
       </main>
-      <Footer />
+      <Footer /> 
       
     </>
   );
