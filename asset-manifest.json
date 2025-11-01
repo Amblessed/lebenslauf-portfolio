@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lebenslauf-portfolio/static/css/main.93dd41a2.css",
-    "main.js": "/lebenslauf-portfolio/static/js/main.69af1b63.js",
+    "main.js": "/lebenslauf-portfolio/static/js/main.0d2f5457.js",
     "static/js/453.9f78bd8d.chunk.js": "/lebenslauf-portfolio/static/js/453.9f78bd8d.chunk.js",
     "index.html": "/lebenslauf-portfolio/index.html",
     "main.93dd41a2.css.map": "/lebenslauf-portfolio/static/css/main.93dd41a2.css.map",
-    "main.69af1b63.js.map": "/lebenslauf-portfolio/static/js/main.69af1b63.js.map",
+    "main.0d2f5457.js.map": "/lebenslauf-portfolio/static/js/main.0d2f5457.js.map",
     "453.9f78bd8d.chunk.js.map": "/lebenslauf-portfolio/static/js/453.9f78bd8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93dd41a2.css",
-    "static/js/main.69af1b63.js"
+    "static/js/main.0d2f5457.js"
   ]
 }
