@@ -1,6 +1,6 @@
 function Skills() {
   const skills = [
-    "Java, Python",
+    "Java, Python, Javascript",
     "Selenium, Playwright, Cucumber",
     "JUnit, TestNG, Pytest",
     "Git, Jenkins, GitHub Actions (CI/CD)",
